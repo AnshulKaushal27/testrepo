@@ -1,2 +1,2 @@
 # testrepo
-this repository for me to get familiar with the platform
+this repository for me to get familiar with the platform yes
